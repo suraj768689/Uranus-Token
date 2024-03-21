@@ -38,14 +38,14 @@ strong {
     display: flex;
     justify-content: center;
     align-items: center;
-   
     
     
 }
 
 .image-card img {
    width: 100%;
-   height: auto;
+   height: 280px;
+   
    
    
 }
